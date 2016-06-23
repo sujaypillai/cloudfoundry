@@ -1,0 +1,7 @@
+---
+applications:
+  - name: springjpa
+    buildpack: java_buildpack
+    path: target/jpa-0.0.1-SNAPSHOT.jar
+    services:
+      - mysql

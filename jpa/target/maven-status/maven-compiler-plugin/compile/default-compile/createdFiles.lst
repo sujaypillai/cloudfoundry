@@ -1,0 +1,5 @@
+com/sop/User.class
+com/sop/UserDao.class
+com/sop/DataSourceConfiguration.class
+com/sop/JpaApplication.class
+com/sop/JpaRestController.class
